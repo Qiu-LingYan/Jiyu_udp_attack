@@ -28,7 +28,7 @@ header = """
                                 
     ------------------- Github Repositories -------------------
                         详细说明请看项目文档
-            https://github.com/ht0Ruial/Jiyu_udp_attack
+            https://githubfast.com/Qiu-LingYan/Jiyu_udp_attack
 
 """
 parser = argparse.ArgumentParser(header)
@@ -96,8 +96,8 @@ def get_ip(ip):
             ip_arrs[3] = str(i)
             target_host.append('.'.join(ip_arrs))
     else:
-        print('\nYou enter a error IP.')
-        print("Please enter the correct format of the IP again.")
+        print('\nIP无效')
+        print("请重新输入Ip")
         sys.exit(0)
     return target_host
 
