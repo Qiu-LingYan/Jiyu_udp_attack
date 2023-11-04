@@ -36,7 +36,7 @@ v1.0
 usage:
 
     ------------------- Github Repositories -------------------
-            https://githubfast.com/ht0Ruial/Jiyu_udp_attack
+            https://githubfast.com/Qiu-LingYan/Jiyu_udp_attack/
 
        [-h] -ip IP [-p P] [-msg MSG] [-c C] [-l L] [-t T]
        [-e {r,s,g,nc,break,continue}]
